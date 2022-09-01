@@ -5,5 +5,5 @@
 <p>✳️A React admin dashboard application including one dashboard, three pages, four apps and seven fully functional charts.✳️</p>
 
 <p>📍 Built using React Context API (state management), Syncfusion (UI Creation), Tailwind (styling).</P>
-<p>📍 You can visit Online "MYTube Website" here: https://myshopgram.netlify.app</P>
+<p>📍 You can visit Online "MyShopgram Website" here: https://myshopgram.netlify.app</P>
 
